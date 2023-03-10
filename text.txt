@@ -1,0 +1,7 @@
+hello
+this is a change
+for the commit feature
+hello again 
+hello
+tuff
+Tornados
